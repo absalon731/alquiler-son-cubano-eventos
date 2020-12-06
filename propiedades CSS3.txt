@@ -1,0 +1,87 @@
+ <html lang="es">
+
+  <head>
+   <title> ALQUILERES SON CUBANO EVENTOS </title>
+   </head>
+
+   <body bgcolor="#FFFACD">
+     <header>
+     <center> <img src="son cubano.jpg" width="600px" height="300px"/></br> </center> 
+    </header>
+  
+
+<p> <a> <h1> Absalon Mina </a> </h1> </p>
+<p> Movil: 3176594327 </p>
+<p> Correo: Absalonmina@gmail.com </p>
+<p> Rozo - Valle. </p>
+<p> Sector de la Piña </p>
+<p> Ponte en contacto con nosotros para accesorarte </p>
+
+<p> <a> <h1> Menu  </a> </h1></p>
+<p>CARPAS</p>
+<p>SILLAS</p>
+<p>MESAS</p>
+<p>PISTA DE BAILE</p>
+<p>TARIMAS</p>
+<p>SONIDOS</p>
+<p>TRUSS DE 30x30 EN ALUMINIO</p>
+<p>MANTELERIA</p>
+
+<p><h1><a name=border> CARPAS </a> </h1> </p>
+
+<p> <font size="4"> Para tu variedad contamos con carpas de:</p>
+<p> - Carpa modular de 12x12 </p>    
+<p> -Carpa 6x6 Blanca </p>
+<p> -Carpa de 4x4 </p>
+<p> -Carpa de 6x6 Transparente a dos aguas </p>
+<img src="carpa.jpg" width="400px" height="400px"/> 
+<img src="carpa6.jpg" width="400px" height="400px"/> 
+<img src="carpa1.jpg" width="400px" height="400px"/> 
+<img src="carpa2.jpg" width="400px" height="400px"/> 
+<img src="carpa3.jpg" width="400px" height="400px"/> 
+<img src="carpa4.jpg" width="400px" height="400px"/> 
+
+<p> <h1><a name=box-shadow> SILLAS </a> </h1> </p>
+<p align="justify"> Contamos con sillas rimax para que organices tu evento de manera organizada </p>
+<center> <img src="sillas.jpg" width="400px" height="600px"/> </center>
+
+
+<p> <h1><a name=border> MESAS </a> </h1> </p>
+<p> -Mesas Redondas</p>
+<p> -Mesa Tablon </p>
+<p> -Mesa Disco TK </p>
+
+<img src="mesa1.jpg" width="400px" height="450px"/>
+<img src="mesa2.jpg" width="400px" height="450px"/>
+
+ <p> <h1><a name=border> Pista De Baile </a> </h1> </p>
+
+<p> Sino tienes donde bailar tenemos para ti la pista de baile </p>
+
+<center> <img src="pista.jpg" width="400px" height="400px"/> </center>
+
+ <p> <h1><a name=border> TARIMAS EN VARIAS MEDIDAS </a> </h1> </p>
+<p> Para que organice su evento contamos con una variedad de tarimas </p>
+
+<center> <img src="tarima.jpg" width="400px" height="450px"/> </center>
+
+
+<p> <h1><a name=border> LUCES EN DISCO TK,SONIDO PROFESIONAL Y CABINAS AMPLIFICADAS </a> </h1> </p>
+ <p> Iluminamos tu sitio con luces de calidad para tu fiesta de igual manera ofrecemos el servicio de sonido de alta calidad para cubrir cualquier tipo de eventos</p>
+<img src="sonido1.jpg" width="400px" height="450px"/>
+<img src="sonido2.jpg" width="400px" height="450px"/>
+<img src="luces1.jpg" width="400px" height="400px"/> 
+<img src="luces2.jpg" width="400px" height="400px"/> 
+
+
+<p> <h1><a name=border> MANTELERIA </a> </h1> </p>
+<p> Para cubrir tus mesas y dar un toque de calidad con colores hermosos contamos con una amplia variedad de manteles</p> 
+ <img src="manteles.jpg" width="400px" height="450px"/>
+<img src="mantel2.jpg" width="400px" height="450px"/>
+
+<p> <h1><a name=border> TRUSS DE 30x30 EN ALUMINIO </a> </h1> </p>
+<p> Para poner las mesas de tus DJ y colgar tus luces te tenemos estos espectaculares TRUSS </p>
+<img src="truss1.jpg" width="400px" height="450px"/>
+</body>
+</html>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
